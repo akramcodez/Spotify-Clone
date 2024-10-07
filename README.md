@@ -23,7 +23,7 @@ Project Details
 
 Author
 
- - SK Akram 
+ - SK Akram ([@akramcodez](https://github.com/akramcodez))
 
 Connect with Me!
 
