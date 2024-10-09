@@ -25,6 +25,10 @@ Author
 
  - SK Akram ([@akramcodez](https://github.com/akramcodez))
 
+Live Preview
+
+Check out the final result on my Instagram page - https://www.instagram.com/p/DA5nyslz5uC/
+
 Connect with Me!
 
 Want to stay updated on my projects or collaborate? Visit my social media profiles via my GitHub profile.
